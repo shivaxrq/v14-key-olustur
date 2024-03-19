@@ -2,8 +2,8 @@
 
 # REPO NE BOKA YARIYOR :(
 
-<p align="center">
-<img src="https://cdn.discordapp.com/emojis/1218886373898195011.webp?size=96&quality=lossless"> Repo şu boka yarıyor Cs,Craftrise,Sonoyuncu,Metin2,Lol,valo vb hile yaptıgınız tüm oyunlara key
+
+<img src="https://cdn.discordapp.com/emojis/1218886373898195011.webp?size=96&quality=lossless" width="27px"> Repo şu boka yarıyor Cs,Craftrise,Sonoyuncu,Metin2,Lol,valo vb hile yaptıgınız tüm oyunlara key
 oluşturma gibi birşey
 
    
