@@ -2,12 +2,16 @@
 
 # REPO NE BOKA YARIYOR :(
 <p align="center">
-<img src="https://cdn.discordapp.com/emojis/1218886373898195011.webp?size=96&quality=lossless"> Repo şu boka yarıyor Cs,Craftrise,Sonoyuncu,Metin2,Lol,valo vb hile yaptıgınız tüm oyunlara key oluşturma gibi birşey
+<img src="https://cdn.discordapp.com/emojis/1218886373898195011.webp?size=96&quality=lossless"> Repo şu boka yarıyor Cs,Craftrise,Sonoyuncu,Metin2,Lol,valo vb hile yaptıgınız tüm oyunlara key
+oluşturma gibi birşey
+  <br><br>
+  <samp>
+
+   
 <img src="https://cdn.discordapp.com/emojis/1218886373898195011.webp?size=96&quality=lossless"> /keyolustur dedikten sonra açılan keyi üyeye verin ve ardından açsın ! "BOT YENİDEN BAŞLARSA KEYLER SIFIRLANIR ONU YAPMADIM SİZ YAPARSINIZ YAPAMAZSANIZ DMDEN YAZIN YARDIMCI OLUCAM"
 <img src="https://cdn.discordapp.com/emojis/1218886373898195011.webp?size=96&quality=lossless"> /keyliste ile kontrol sağlayabilirsiniz star gelirse istediginiz herşeyi yapıcam :D
 
 <img src="https://cdn.discordapp.com/emojis/1182973817266655303.gif?size=96&quality=lossless"> # DİKKATTTT !!!
 - key açıldıktan sonra bot yeniden başlarsa keyler sıfırlanır kendinizde kaydedin sonra boş yapmayın bilerek yapmadım onuda
 - star gelsin dediklerinizi full eklerim 
- <br><br>
-  <samp>
+
