@@ -1,4 +1,6 @@
-```Merhaba, aa evet uzun zamandır proje atmıyorum artık herşey çok zoruma gidiyor ve mutsuz hissediyorum sabahları gülen birisiyim geceleri çökmüş bir ihtiyar oluyorum```
+```js 
+Merhaba, aa evet uzun zamandır proje atmıyorum artık herşey çok zoruma gidiyor ve mutsuz hissediyorum sabahları gülen birisiyim geceleri çökmüş bir ihtiyar oluyorum
+```
 
 # REPO NE BOKA YARIYOR :(
 
