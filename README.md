@@ -1,11 +1,10 @@
 ```Merhaba, aa evet uzun zamandır proje atmıyorum artık herşey çok zoruma gidiyor ve mutsuz hissediyorum sabahları gülen birisiyim geceleri çökmüş bir ihtiyar oluyorum```
 
 # REPO NE BOKA YARIYOR :(
+
 <p align="center">
 <img src="https://cdn.discordapp.com/emojis/1218886373898195011.webp?size=96&quality=lossless"> Repo şu boka yarıyor Cs,Craftrise,Sonoyuncu,Metin2,Lol,valo vb hile yaptıgınız tüm oyunlara key
 oluşturma gibi birşey
-  <br><br>
-  <samp>
 
    
 <img src="https://cdn.discordapp.com/emojis/1218886373898195011.webp?size=96&quality=lossless"> /keyolustur dedikten sonra açılan keyi üyeye verin ve ardından açsın ! "BOT YENİDEN BAŞLARSA KEYLER SIFIRLANIR ONU YAPMADIM SİZ YAPARSINIZ YAPAMAZSANIZ DMDEN YAZIN YARDIMCI OLUCAM"
