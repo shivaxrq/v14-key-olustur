@@ -12,5 +12,5 @@ oluşturma gibi birşey
 
 <img src="https://cdn.discordapp.com/emojis/1182973817266655303.gif?size=96&quality=lossless" width="27px"> 
 - key açıldıktan sonra bot yeniden başlarsa keyler sıfırlanır kendinizde kaydedin sonra boş yapmayın bilerek yapmadım onuda
-- star gelsin dediklerinizi full eklerim 
+star gelsin dediklerinizi full eklerim 
 
